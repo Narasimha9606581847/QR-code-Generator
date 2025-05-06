@@ -16,9 +16,8 @@ This is a simple and stylish **QR Code Generator** built using **HTML, CSS, and 
 - CSS3 (Gradients, Animations, Glassmorphism)
 - JavaScript
 - QR Code API
+ 📷 Screenshot
 
-## 📷 Screenshot
-
-![App Screenshot](![alt text](2025-05-06.png)) <!-- Add your screenshot in the project folder -->
+(![alt text](2025-05-06.png)
 
 
