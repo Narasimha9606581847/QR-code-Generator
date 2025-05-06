@@ -19,6 +19,6 @@ This is a simple and stylish **QR Code Generator** built using **HTML, CSS, and 
 
  #📷 Screenshot
 
-(2025-05-06.png)
+![App Screenshot](2025-05-06.png)
 
 
